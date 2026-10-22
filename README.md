@@ -8,11 +8,23 @@ I work on C/RISC-V RVV coursework, Linux system programming and MATLAB research 
 
 ## Selected projects
 
-| Project | My work | Evidence and scope |
-| --- | --- | --- |
-| [RISC-V RVV Image Transforms](https://github.com/huaien418/Computer-Architecture-Project) | Implemented and analyzed Parts 1-3: scalar C, RVV reduction and independent-output accumulation. | Archived gem5 scalar/Part 3 cycle ratio: **4.72x**. Saved scalar/Part 3 reconstructed images are byte-identical. The two-person team's CUDA work belongs to my teammate. |
-| [Linux System Programming](https://github.com/huaien418/Operating-Systems-Projects) | Custom Linux system calls and pthread scheduling coursework using user/kernel data exchange, linked lists, mutexes, policies and priorities. | Source and historical output images; fresh kernel/QEMU validation remains documented follow-up work. |
-| [SLM CircleScan Analysis](https://github.com/huaien418/SLM-CircleScan-Analysis) | Research analysis workflow: image activity, ROI/QC review, dark-corrected features and capture-level repeatability. | AI-assisted code development/review; documented synthetic software checks cover 30 datasets and 240 feature rows. Physical thickness detection and power compensation remain research goals. |
+### [RISC-V RVV Image Transforms](https://github.com/huaien418/Computer-Architecture-Project)
+
+Implemented and analyzed Parts 1-3: scalar C, RVV reduction and independent-output accumulation.
+
+**Evidence and scope:** Archived gem5 scalar/Part 3 cycle ratio: **4.72x**. Saved scalar/Part 3 reconstructed images are byte-identical. The two-person team's CUDA work belongs to my teammate.
+
+### [Linux System Programming](https://github.com/huaien418/Operating-Systems-Projects)
+
+Custom Linux system calls and pthread scheduling coursework using user/kernel data exchange, linked lists, mutexes, policies and priorities.
+
+**Evidence and scope:** Source and historical output images; fresh kernel/QEMU validation remains documented follow-up work.
+
+### [SLM CircleScan Analysis](https://github.com/huaien418/SLM-CircleScan-Analysis)
+
+Research analysis workflow: image activity, ROI/QC review, dark-corrected features and capture-level repeatability.
+
+**Evidence and scope:** AI-assisted code development/review; documented synthetic software checks cover 30 datasets and 240 feature rows. Physical thickness detection and power compensation remain research goals.
 
 ## Portfolio and technical writing
 
