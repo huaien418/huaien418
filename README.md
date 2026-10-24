@@ -26,6 +26,10 @@ Research analysis workflow: image activity, ROI/QC review, dark-corrected featur
 
 **Evidence and scope:** AI-assisted code development/review; documented synthetic software checks cover 30 datasets and 240 feature rows. Physical thickness detection and power compensation remain research goals.
 
+## Additional learning records
+
+- [Programming Foundations — C Coursework](https://github.com/huaien418/programming-foundations): grade processing, coordinate conversion, sorting and card dealing. Includes archived coursework, AI-assisted 2026 revisions, tests and documented limits.
+
 ## Portfolio and technical writing
 
 - [中文工程作品集 PDF](portfolio/EvanChiu_Portfolio_ZH.pdf)
